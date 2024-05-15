@@ -23,6 +23,4 @@ Education
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+1.  _Sandeep Joy_, Brian Skinner,  [Wigner crystallization in Bernal bilayer graphene](https://arxiv.org/abs/2310.07751), 	arXiv:2310.07751 (2023)
