@@ -12,11 +12,12 @@ redirect_from:
 Education
 ======
 * Ph.D in Physics
-  * Advisor: Prof. Brian Skinner
+  * Advisor: [Prof. Brian Skinner](https://sites.google.com/view/skinner-physics)
   * The Ohio State University
   * 2019 - present
 * Integrated BS-MS (Major - Physics) 
-  * Integrated BS-MS (Major - Physics) 
+  * Indian Institute of Science Education and Research, Pune
+  * 2014 - 2019
 
 
 
