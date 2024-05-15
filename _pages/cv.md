@@ -33,7 +33,7 @@ Publications
 Teaching Experience
 ========
 * Graduate Teaching Assistant, The Ohio State University
-  ** Physics 5501H - Honors Quantum Mechanics 2 and Physics 5401H Honors Advanced Electricity and Magnetism 2, Spring 2021
-  ** Physics 5500H - Honors Quantum Mechanics 1, Fall 2020
-  ** Physics 5400 - Intermediate Electricity and Magnetism, Spring 2020
-  ** Physics 1250 - Mechanics, Work and Energy, Thermal Physics, Fall 2019
+  * Physics 5501H - Honors Quantum Mechanics 2 and Physics 5401H Honors Advanced Electricity and Magnetism 2, Spring 2021
+  * Physics 5500H - Honors Quantum Mechanics 1, Fall 2020
+  * Physics 5400 - Intermediate Electricity and Magnetism, Spring 2020
+  * Physics 1250 - Mechanics, Work and Energy, Thermal Physics, Fall 2019
