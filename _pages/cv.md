@@ -16,6 +16,7 @@ Employment
 ======
 * [Quantum Initiative](https://quantum.fsu.edu) Postdoctoral Fellow
   * Supervisor: [Cyprian Lewandowski](https://nationalmaglab.org/staff/?name=CyprianLewandowski)
+  * September 2024 - present
 
 Education
 ======
