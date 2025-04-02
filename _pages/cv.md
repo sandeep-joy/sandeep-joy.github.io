@@ -25,11 +25,3 @@ Education
 * Integrated BS-MS with Distinction (Major - Physics)
   * August 2014 - May 2019
 
-  
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
