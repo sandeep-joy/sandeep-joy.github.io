@@ -15,7 +15,10 @@ main:
   #  url: /talks/    
 
   #- title: "Teaching"
-  #  url: /teaching/    
+  #  url: /teaching/
+
+  - title: "About"
+    url: /cv/
     
   - title: "Research"
     url: /research/
@@ -23,8 +26,7 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "About"
-    url: /cv/
+  
     
   # - title: "CV"
   #   url: /cv-json/
