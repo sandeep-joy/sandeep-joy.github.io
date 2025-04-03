@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-An extended CV can be found [here](https://sandeep-joy.github.io/files/CV_Sandeep_Joy.pdf)
-
+My brief [CV](https://sandeep-joy.github.io/files/CV_Sandeep_Joy.pdf) is given below.
 
 Employment
 ======
