@@ -35,8 +35,12 @@ Selected Publications
 
 4. Fangyuan Yang, Ruiheng Bai, Alexander A. Zibrov, **Sandeep Joy**, Takashi Taniguchi, Kenji Watanabe, Brian Skinner, Mark O. Goerbig, Andrea F. Young, *[Cascade of multi-electron bubble phases in monolayer graphene at high Landau level filling](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.226501)*, Phys. Rev. Lett. 131 (2023) (*Editors' Suggestion*).
 
-**Contact**
+
+Contact
+======
+
 Email: sj24u AT fsu DOT edu
+
 Address: National High Magnetic Field Laboratory A-307, 1800 E Paul Dirac Dr Tallahassee, FL 32310
 
 
