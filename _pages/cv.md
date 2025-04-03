@@ -39,9 +39,9 @@ Selected Publications
 Contact
 ======
 
-Email: sj24u AT fsu DOT edu
+* *Email*: sj24u AT fsu DOT edu
 
-Address: National High Magnetic Field Laboratory A-307, 1800 E Paul Dirac Dr Tallahassee, FL 32310
+* *Address*: National High Magnetic Field Laboratory, A-307, 1800 E Paul Dirac Dr Tallahassee, FL 32310
 
 
 For a detailed overview of my academic and professional background, please view my full CV [here](https://sandeep-joy.github.io/files/CV_Sandeep_Joy.pdf).
