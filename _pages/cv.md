@@ -13,7 +13,7 @@ My brief [CV](https://sandeep-joy.github.io/files/CV_Sandeep_Joy.pdf) is given b
 
 Employment
 ======
-* [Quantum Initiative](https://quantum.fsu.edu) Postdoctoral Fellow
+* *[Quantum Initiative](https://quantum.fsu.edu)* Postdoctoral Fellow
   * Supervisor: [Cyprian Lewandowski](https://nationalmaglab.org/staff/?name=CyprianLewandowski)
   * September 2024 - present
 
@@ -22,7 +22,7 @@ Education
 * Ph.D in Physics, The Ohio State University 
   * Advisor: [Brian Skinner](https://sites.google.com/view/skinner-physics)
   * August 2019 - Septemeber 2024
-* Integrated BS-MS with Distinction (Major - Physics)
+* Integrated BS-MS *with Distinction* (Major - Physics)
   * August 2014 - May 2019
  
 Publications
