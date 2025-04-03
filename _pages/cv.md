@@ -13,14 +13,14 @@ Employment
 ======
 * *[Quantum Initiative](https://quantum.fsu.edu)* Postdoctoral Fellow
   * [National High Magnetic Field Laboratory](https://nationalmaglab.org) & [Florida State University](https://physics.fsu.edu), Tallahassee, FL, USA
-  * Supervisor: [Cyprian Lewandowski](https://physics.fsu.edu/person/cyprian-lewandowski)
+  * Supervisor: Prof. [Cyprian Lewandowski](https://physics.fsu.edu/person/cyprian-lewandowski)
   * September 2024 - present
 
 Education
 ======
 * Ph.D in Physics,
   * [The Ohio State University](https://physics.osu.edu), Columbus, Ohio, USA 
-  * Advisor: [Brian Skinner](https://sites.google.com/view/skinner-physics)
+  * Advisor: Prof. [Brian Skinner](https://sites.google.com/view/skinner-physics)
   * August 2019 - Septemeber 2024
     
 * Integrated BS-MS *with Distinction* (Major - Physics)
