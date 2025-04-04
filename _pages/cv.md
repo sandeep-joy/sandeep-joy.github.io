@@ -21,7 +21,7 @@ Education
 * Ph.D in Physics,
   * [The Ohio State University](https://physics.osu.edu), Columbus, Ohio, USA 
   * Advisor: Prof. [Brian Skinner](https://sites.google.com/view/skinner-physics)
-  * August 2019 - Septemeber 2024
+  * August 2019 - September 2024
     
 * Integrated BS-MS *with Distinction* (Major - Physics)
   * [Indian Institute of Science Education and Research Pune](http://www.iiserpune.ac.in) (IISER Pune), Pune, India 
