@@ -31,6 +31,11 @@ Education
 Selected Publications
 ======
 
+Showing publications since 2023.
+
+For a complete list, see [Google Scholar](https://scholar.google.ca/citations?user=3eANUVAAAAAJ&hl=en&oi=ao) or the [arXiv](https://arxiv.org/search/?query=Joy%2C+Sandeep&searchtype=all&source=header).
+
+
 1. **Sandeep Joy**, Brian Skinner, *[Disorder-induced liquid-solid phase coexistence in 2D electron systems](https://arxiv.org/abs/2502.11235)*, arXiv:2502.11235 (2025).
 
 2. **Sandeep Joy**, Brian Skinner, *[Wigner crystallization in Bernal bilayer graphene](https://arxiv.org/abs/2310.07751)*, arXiv:2310.07751 (2023).
