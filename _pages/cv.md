@@ -35,9 +35,8 @@ Showing publications since 2023.
 
 For a complete list, see [Google Scholar](https://scholar.google.ca/citations?user=3eANUVAAAAAJ&hl=en&oi=ao) or the [arXiv](https://arxiv.org/search/?query=Joy%2C+Sandeep&searchtype=all&source=header).
 
-1.Zhenqi Hua†, Chang Niu†, **Sandeep Joy†**, Pukun Tan, Gang Shi, Haoyang Liu, Jiaxing Guo, David Graf, Peide Ye, Cyprian Lewandowski, and Peng Xiong, *[Interplay of orbital and spin magnetization in trigonal tellurium](https://arxiv.org/abs/2507.14292)*, arXiv:2507.14292 (2025), († Z.H., C.N., and S.J. contributed equally to this work.)
-   
-2.  **Sandeep Joy**, Brian Skinner, *[Watching electronic ice melt](https://www.science.org/doi/10.1126/science.adx5775)*, Science 388 (2025)  (**Perspective**) (commentary on Z. Xiang et al., Science 388 (2025).)
+1. Zhenqi Hua†, Chang Niu†, **Sandeep Joy†**, Pukun Tan, Gang Shi, Haoyang Liu, Jiaxing Guo, David Graf, Peide Ye, Cyprian Lewandowski, and Peng Xiong, *[Interplay of orbital and spin magnetization in trigonal tellurium](https://arxiv.org/abs/2507.14292)*, arXiv:2507.14292 (2025), († Z.H., C.N., and S.J. contributed equally to this work.)
+2. **Sandeep Joy**, Brian Skinner, *[Watching electronic ice melt](https://www.science.org/doi/10.1126/science.adx5775)*, Science 388 (2025)  (**Perspective**) (commentary on Z. Xiang et al., Science 388 (2025).)
 
 3. **Sandeep Joy**, Brian Skinner, *[Disorder-induced liquid-solid phase coexistence in 2D electron systems](https://arxiv.org/abs/2502.11235)*, arXiv:2502.11235 (2025).
 
