@@ -11,4 +11,4 @@ I am a Quantum Initiative postdoctoral fellow at the [National High Magnetic Fie
 
 I completed my Ph.D. at The Ohio State University, where I worked with Prof. [Brian Skinner](https://sites.google.com/view/skinner-physics) in the Physics Department. Currently, I am formally supervised by Prof. [Cyprian Lewandowski](https://physics.fsu.edu/person/cyprian-lewandowski) but actively collaborate with theorists and experimentalists both at my home institution and beyond.
 
-You can reach me at sj24u AT fsu DOT edu.
+You can reach me at sj24u AT fsu DOT edu or sjoy AT magnet DOT fsu.edu
