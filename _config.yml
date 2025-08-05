@@ -32,7 +32,7 @@ author:
   email            : #"sj24u@fsu.edu" 
 
   # Academic websites
-  #arxiv            :  "https://arxiv.org/search/?query=Joy%2C+Sandeep&searchtype=all&abstracts=show&order=-announced_date_first&size=50"
+  arxiv            :  "https://arxiv.org/search/cond-mat?searchtype=author&query=Joy%2C+S"
   googlescholar    : "https://scholar.google.com/citations?user=3eANUVAAAAAJ&hl=en&oi=ao"
   #impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-6250-0527"
