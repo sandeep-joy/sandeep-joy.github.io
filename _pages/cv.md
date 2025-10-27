@@ -28,7 +28,7 @@ Education
   * August 2014 - May 2019
 
 
-Selected Publications
+Publications since 2025
 ======
 
  <!--Showing publications since 2023.-->
@@ -41,8 +41,6 @@ For a complete list, see [Google Scholar](https://scholar.google.ca/citations?us
 2.  Zhenqi Hua†, Chang Niu†, **Sandeep Joy†**, Pukun Tan, Gang Shi, Haoyang Liu, Jiaxing Guo, David Graf, Peide Ye, Cyprian Lewandowski, and Peng Xiong, *[Interplay of orbital and spin magnetization in trigonal tellurium](https://arxiv.org/abs/2507.14292)*, arXiv:2507.14292 (2025), († Z.H., C.N., and S.J. contributed equally to this work.)
 3. **Sandeep Joy**, Brian Skinner, *[Watching electronic ice melt](https://www.science.org/doi/10.1126/science.adx5775)*, Science 388 (2025)  (**Perspective**) (commentary on Z. Xiang et al., Science 388 (2025).)
 4. **Sandeep Joy**, Brian Skinner, *[Disorder-induced liquid-solid phase coexistence in 2D electron systems](https://arxiv.org/abs/2502.11235)*, arXiv:2502.11235 (2025).
-5. **Sandeep Joy**, Brian Skinner, *[Upper bound on the window of density occupied by microemulsion phases in two-dimensional electron systems](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.L241110)*, Phys. Rev. B (Letter) 108 (2023).
-6.  Fangyuan Yang, Ruiheng Bai, Alexander A. Zibrov, **Sandeep Joy**, Takashi Taniguchi, Kenji Watanabe, Brian Skinner, Mark O. Goerbig, Andrea F. Young, *[Cascade of multi-electron bubble phases in monolayer graphene at high Landau level filling](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.226501)*, Phys. Rev. Lett. 131 (2023) (*Editors' Suggestion*).
 
 
 Contact
