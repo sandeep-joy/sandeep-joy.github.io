@@ -37,10 +37,11 @@ For a complete list, see [Google Scholar](https://scholar.google.ca/citations?us
 
 
 
-1. **Sandeep Joy**, Leonid Levitov, Brian Skinner, *[Chiral Wigner crystal phases induced by Berry curvature](https://arxiv.org/abs/2507.22121)*, arXiv:2507.22121 (2025).
-2.  Zhenqi Hua†, Chang Niu†, **Sandeep Joy†**, Pukun Tan, Gang Shi, Haoyang Liu, Jiaxing Guo, David Graf, Peide Ye, Cyprian Lewandowski, and Peng Xiong, *[Interplay of orbital and spin magnetization in trigonal tellurium](https://arxiv.org/abs/2507.14292)*, arXiv:2507.14292 (2025), († Z.H., C.N., and S.J. contributed equally to this work.)
-3. **Sandeep Joy**, Brian Skinner, *[Watching electronic ice melt](https://www.science.org/doi/10.1126/science.adx5775)*, Science 388 (2025)  (**Perspective**) (commentary on Z. Xiang et al., Science 388 (2025).)
-4. **Sandeep Joy**, Brian Skinner, *[Disorder-induced liquid-solid phase coexistence in 2D electron systems](https://arxiv.org/abs/2502.11235)*, arXiv:2502.11235 (2025).
+1. **Sandeep Joy**, Leonid Levitov, Brian Skinner, *[Chiral Wigner crystal phases induced by Berry curvature](https://journals.aps.org/prl/abstract/10.1103/h5hy-jh6m)*, Phys. Rev. Lett. 135, 256502.
+2.  Mohammed Hammam, Cyprian Lewandowski, Vladimir Dobrosavljevic, **Sandeep Joy**, *[Is disorder a friend or a foe to melting of Wigner-Mott insulators?](https://arxiv.org/abs/2512.07932)*, arXiv:2512.07932 (2025)
+3.  Zhenqi Hua†, Chang Niu†, **Sandeep Joy†**, Pukun Tan, Gang Shi, Haoyang Liu, Jiaxing Guo, David Graf, Peide Ye, Cyprian Lewandowski, and Peng Xiong, *[Interplay of orbital and spin magnetization in trigonal tellurium](https://arxiv.org/abs/2507.14292)*, arXiv:2507.14292 (2025), († Z.H., C.N., and S.J. contributed equally to this work.)
+4. **Sandeep Joy**, Brian Skinner, *[Watching electronic ice melt](https://www.science.org/doi/10.1126/science.adx5775)*, Science 388 (2025)  (**Perspective**) (commentary on Z. Xiang et al., Science 388 (2025).)
+5. **Sandeep Joy**, Brian Skinner, *[Disorder-induced liquid-solid phase coexistence in 2D electron systems](https://arxiv.org/abs/2502.11235)*, arXiv:2502.11235 (2025).
 
 
 Contact
