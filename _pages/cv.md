@@ -33,7 +33,7 @@ Publications since 2025
 
  <!--Showing publications since 2023.-->
 
-For a complete list, see [Google Scholar](https://scholar.google.ca/citations?user=3eANUVAAAAAJ&hl=en&oi=ao) or the [arXiv](https://arxiv.org/search/?query=Joy%2C+Sandeep&searchtype=all&source=header).
+For a complete and most up to date list, see [Google Scholar](https://scholar.google.ca/citations?user=3eANUVAAAAAJ&hl=en&oi=ao) or the [arXiv](https://arxiv.org/search/?query=Joy%2C+Sandeep&searchtype=all&source=header).
 
 
 
