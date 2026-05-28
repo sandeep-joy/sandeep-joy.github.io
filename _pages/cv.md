@@ -37,9 +37,9 @@ For a complete and most up to date list, see [Google Scholar](https://scholar.go
 
 
 
-1. **Sandeep Joy**, Brian Skinner, *[Disorder-induced liquid-solid phase coexistence in 2D electron systems](https://link.aps.org/doi/10.1103/71l6-w8hl)*, Phys. Rev. B. (2026), *Editors' Suggestion*
+1. **Sandeep Joy**, Brian Skinner, *[Disorder-induced liquid-solid phase coexistence in 2D electron systems](https://link.aps.org/doi/10.1103/71l6-w8hl)*, Phys. Rev. B 113, L201117 (2026), *Editors' Suggestion*.
 2. **Sandeep Joy**, Leonid Levitov, Brian Skinner, *[Chiral Wigner crystal phases induced by Berry curvature](https://journals.aps.org/prl/abstract/10.1103/h5hy-jh6m)*, Phys. Rev. Lett. 135, 256502 (2025).
-3. Mohammed Hammam, Cyprian Lewandowski, Vladimir Dobrosavljevic, **Sandeep Joy**, *[Is disorder a friend or a foe to melting of Wigner-Mott insulators?](https://arxiv.org/abs/2512.07932)*, arXiv:2512.07932 (2025)
+3. Mohammed Hammam, Cyprian Lewandowski, Vladimir Dobrosavljevic, **Sandeep Joy**, *[Is disorder a friend or a foe to melting of Wigner-Mott insulators?](https://arxiv.org/abs/2512.07932)*, arXiv:2512.07932 (2025).
 4. Zhenqi Hua†, Chang Niu†, **Sandeep Joy†**, Pukun Tan, Gang Shi, Haoyang Liu, Jiaxing Guo, David Graf, Peide Ye, Cyprian Lewandowski, and Peng Xiong, *[Interplay of orbital and spin magnetization in trigonal tellurium](https://arxiv.org/abs/2507.14292)*, arXiv:2507.14292 (2025), († Z.H., C.N., and S.J. contributed equally to this work.).
 5. **Sandeep Joy**, Brian Skinner, *[Watching electronic ice melt](https://www.science.org/doi/10.1126/science.adx5775)*, Science 388 (2025)  (**Perspective**) (commentary on Z. Xiang et al., Science 388 (2025)).
 
