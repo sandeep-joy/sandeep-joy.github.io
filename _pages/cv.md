@@ -37,7 +37,7 @@ For a complete and most up to date list, see [Google Scholar](https://scholar.go
 
 
 
-1. Zekang Zhou1, Kilian Kr¨otzsch, Rapha¨el Ayache, Yonggen Li, **Sandeep Joy**, Kenji Watanabe6, Takashi Taniguchi, Moty Heiblum, Preden Roulleau, and Mitali Banerjee, *[Competing Orders Driven by Wigner Crystal Phase in Rhombohedral Graphene](https://arxiv.org/abs/2607.15014)*, 	arXiv:2607.15014  (2026).
+1. Zekang Zhou, Kilian Kr¨otzsch, Rapha¨el Ayache, Yonggen Li, **Sandeep Joy**, Kenji Watanabe6, Takashi Taniguchi, Moty Heiblum, Preden Roulleau, and Mitali Banerjee, *[Competing Orders Driven by Wigner Crystal Phase in Rhombohedral Graphene](https://arxiv.org/abs/2607.15014)*, 	arXiv:2607.15014  (2026).
 2.  **Sandeep Joy**, Brian Skinner, *[Disorder-induced liquid-solid phase coexistence in 2D electron systems](https://link.aps.org/doi/10.1103/71l6-w8hl)*, Phys. Rev. B 113, L201117 (2026), *Editors' Suggestion*.
 3. **Sandeep Joy**, Leonid Levitov, Brian Skinner, *[Chiral Wigner crystal phases induced by Berry curvature](https://journals.aps.org/prl/abstract/10.1103/h5hy-jh6m)*, Phys. Rev. Lett. 135, 256502 (2025).
 4. Mohammed Hammam, Cyprian Lewandowski, Vladimir Dobrosavljevic, **Sandeep Joy**, *[Is disorder a friend or a foe to melting of Wigner-Mott insulators?](https://arxiv.org/abs/2512.07932)*, arXiv:2512.07932 (2025).
