@@ -51,9 +51,9 @@ For a complete and most up to date list, see [Google Scholar](https://scholar.go
 Contact
 ======
 
-* *Email*: sj24u AT fsu DOT edu
+* *Email*: sjoy AT physics DOT ucla DOT edu
 
-* *Address*: National High Magnetic Field Laboratory, A-307, 1800 E Paul Dirac Dr Tallahassee, FL 32310
+* *Address*: 475 Portola Plaza, Los Angeles CA 90095
 
 
 For a detailed overview of my academic and professional background, please view my full CV [here](https://sandeep-joy.github.io/files/CV_Sandeep_Joy.pdf)
