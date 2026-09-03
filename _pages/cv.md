@@ -11,10 +11,15 @@ redirect_from:
 
 Employment
 ======
+* * Inaugural Bhaumik Postdoctoral Fellow
+  * [University of California Los Angeles](https://www.pa.ucla.edu)
+  * Supervisor: Prof. [Anshul Kogar](https://kogargroup.physics.ucla.edu)
+  * September 2026 - present
+
 * *[Quantum Initiative](https://quantum.fsu.edu)* Postdoctoral Fellow
   * [National High Magnetic Field Laboratory](https://nationalmaglab.org) & [Florida State University](https://physics.fsu.edu), Tallahassee, FL, USA
   * Supervisor: Prof. [Cyprian Lewandowski](https://physics.fsu.edu/person/cyprian-lewandowski)
-  * September 2024 - present
+  * September 2024 - August 2026
 
 Education
 ======
