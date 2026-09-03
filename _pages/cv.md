@@ -12,7 +12,7 @@ redirect_from:
 Employment
 ======
 
-* * Inaugural Bhaumik* Postdoctoral Fellow
+ **Inaugural Bhaumik** Postdoctoral Fellow
   * [University of California Los Angeles](https://www.pa.ucla.edu)
   * Supervisor: Prof. [Anshul Kogar](https://kogargroup.physics.ucla.edu)
   * September 2026 - present
