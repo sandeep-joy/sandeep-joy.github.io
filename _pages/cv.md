@@ -13,7 +13,7 @@ Employment
 ======
 
 * *[Inaugural Bhaumik](https://www.chemistry.ucla.edu/bhaumik-prize-postdoctoral-fellows-program/)* Postdoctoral Fellow
-  * [University of California Los Angeles](https://www.pa.ucla.edu)
+  * [University of California Los Angeles](https://www.pa.ucla.edu), Los Angeles, CA, USA
   * Supervisor: Prof. [Anshul Kogar](https://kogargroup.physics.ucla.edu)
   * September 2026 - present
 
